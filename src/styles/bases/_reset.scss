@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Flexo Light", serif;
+}
+
+body {
+  font-size: 62.5%; // 1rem <=> 10px
+}
+
+h1 {
+  font-size: 2.5rem;
+}
